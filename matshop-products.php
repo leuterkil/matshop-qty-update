@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Matshop Products Qty
  * Plugin URI:        matshop-products-qty
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       A wordpress plugin specified for the greek site matshop.gr to show the qty of products that are in stock.
  * Version:           1.0.0
  * Author:            left4dev
  * Author URI:        echarissopoulos.herokuapp.com
